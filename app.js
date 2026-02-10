@@ -1,3 +1,4 @@
 console.log ("hola mundo");
-consol. log("hola mundo");
+console.log ("hola mundo");
+
 
